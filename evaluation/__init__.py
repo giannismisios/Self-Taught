@@ -1,0 +1,2 @@
+from .roxford5k_evaluation import ROxford5kEvaluator
+from .rparis6k_evaluation import RParis6kEvaluator
